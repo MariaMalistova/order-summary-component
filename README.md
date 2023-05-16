@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub
+- Solution URL: https://www.frontendmentor.io/solutions/order-summary-component-0w3yJmPzy5
 - Live Site URL: https://mariamalistova.github.io/order-summary-component/
 
 ## My process
